@@ -1,0 +1,9 @@
+
+/bin
+/Debug
+/Release
+/tinyxml/lib
+/tinyxml/obj
+*.suo
+*.vsp
+/tinyxml
